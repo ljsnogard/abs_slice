@@ -1,0 +1,11 @@
+[package]
+edition = "2024"
+name = "abs_slice"
+version = "0.1.0"
+authors = ["lino <lino_snsalias@outlook.com>"]
+description = "ABStraction of SLICE"
+repository = "https://github.com/ljsnogard/abs_slice"
+keywords = ["slice", "iter", "traits"]
+categories = ["no-std"]
+license = "MIT/Apache-2.0"
+readme = "README.md"
