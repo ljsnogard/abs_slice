@@ -1,6 +1,3 @@
-#![allow(unused_features)]
-#![feature(allocator_api)] // This is used when collections feature is on
-
 #![no_std]
 
 mod impl_items_view_;
